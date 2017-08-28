@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title><?php echo $conf['titleTagPost'];?></title>
+<title><?php echo $conf['titleTagPost'];?> - Test Title </title>
 <?php include 'includes/links.php';?>
 </head>
 <body>
