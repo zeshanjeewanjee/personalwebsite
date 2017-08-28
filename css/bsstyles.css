@@ -1,0 +1,637 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Raleway';
+	margin: 0px;
+}
+
+.container-full {
+	margin: 0 auto;
+	width: 100%;
+}
+
+.nav>li>a {
+    padding: 5px 15px 2px 15px;
+    line-height: 1em;
+    border: 1px solid #000;
+}
+
+.list li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 0px 10px;
+}
+
+.headerTitleCont {
+	float: left;
+	margin: 16px 0px 0px 20px;
+	font-size: 1.2em;
+	width: 100%;
+}
+
+.headerTitleCont h1 {
+	margin: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.pageLinks {
+	float: right;
+	margin: 25px 5px 0px 0px;
+	font-size: 1.15em;
+}
+
+.quote {
+	text-align: center;
+	color: black;
+	padding-top: 9%;
+	font-size: 2.2em;
+	line-height: 115%;
+}
+
+
+.homePageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1280/v1500318443/gumbyguitar_pcxl6i.jpg");
+	background-position-y: -180px;
+	min-height: 680px;
+	background-repeat: no-repeat;
+}
+
+.clear {
+	clear: both;
+}
+
+.aboutBackground {
+	width: 100%;
+}
+
+.aboutPageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1570/v1500397245/ZHockey_thv8vu.jpg");
+	background-position-y: -126px;
+	background-position-x: -286px;
+	min-height: 680px;
+	background-repeat: no-repeat;
+	opacity: .8;
+}
+
+.pageTitle {
+	font-size: 3em;
+	padding: 20% 0 4%;
+}
+
+#aboutTitle {
+	text-align: center;
+	padding: 12% 0 3%;
+}
+
+.aboutMeText {
+	background-color: rgba(255,255,255,0.6);
+	color: black;
+	padding: 10px 25px 10px 20px;
+	margin: 10px 0 0 0;
+}
+
+.personalPageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1600/v1500397221/Catalina_klpj1k.jpg");
+	background-position-y: -100px;
+	background-position-x: -100px;
+	min-height: 680px;
+	background-repeat: no-repeat;
+	opacity: .8;
+}
+
+#personalTitle {
+	color: black;
+	padding: 9% 0;
+}
+
+.personalText {
+	background-color: rgba(255,255,255,0.75);
+	color: black;
+	padding: 15px;
+}
+
+.personalTextBowie {
+	float: right;
+}
+
+#bowiePic {
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+}
+
+.personalPageIce {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1350/v1500397232/icerink_pkwlz6.jpg");
+	background-position-y: -50px;
+	background-position-x: 0px;
+	min-height: 680px;
+	background-repeat: no-repeat;
+	opacity: .7;
+}
+
+#personalPageIce {
+	background-repeat: no-repeat;
+	opacity: .7;
+	width: 100%;
+}
+
+.personalTcupTitle {
+	color: red;
+	font-size: 3em;
+	position: absolute;
+	top: 60px;
+	text-align: center;
+}
+
+.personalTcupText {
+	background-color: rgba(255,255,255,1.0);
+	color: black;
+	padding: 20px 35px;
+}
+
+#personalPageTcup {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1300/v1500397237/TCup_whocdo.jpg");
+	background-position-y: -100px;
+	background-position-x: 0px;
+	min-height: 200px;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.blogPageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1358/v1500397250/ZubairGreece_f4osby.jpg");
+	background-position-y: -680px;
+	min-height: 680px;
+	background-repeat: no-repeat;
+	opacity: 0.8;
+}
+
+#blogTitle {
+	font-size: 3em;
+	text-align: center;
+	padding-top: 175px;
+}
+
+#blogQuote {
+	font-size: 2.2em;
+	text-align: center;
+}
+
+.blog {
+	color: black;
+	background-color: rgba(255,255,255,1);
+	padding: 10px 25px;
+}
+
+.blogTitle {
+	font-size: 3em;
+	padding: 10px 0px 2px 0px;
+}
+
+#cuzcoPic, #pakPic {
+	width: 100%;
+}
+
+#blogText {
+	padding: 5px 0px 20px 0px;
+}
+
+.blogPosts {
+	padding: 10px 0px;
+}
+
+.readPost {
+	color: black;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.contactMe {
+	padding: 5px 0px 0px 80px;
+}
+
+
+#contactMeTitle {
+	font-size: 2.5em;
+	text-align: center;
+	padding-top: 3%;
+}
+
+#contactMeText {
+	font-size: 1.5em;
+	padding: 10px 0px 37px 0px;
+	width: 96%;
+}
+
+.socialMedia {
+	padding: 0px 0px 0px 15px;
+}
+
+.copyright {
+	margin: 15px 15px 0px 0px;
+	float: right;
+}
+
+#fName {
+    width: 150%;
+    padding: 12px 10px;
+    margin: 0px 0px 8px 0px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+
+.nameInput, .emailInput, .messageInput {
+	padding: 0px 0px 0px 25px;
+	font-size: 2em;
+}
+
+.resumeList, #skillsList {
+	list-style-type: circle;
+}
+
+.experiencePageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1400/v1501698471/foothillguitar_rsjbqo.jpg");
+	background-position-y: -5px;
+	background-position-x: -120px;
+	height: 680px;
+	background-repeat: no-repeat;
+	opacity: 0.9;
+}
+
+h4 {
+	font-size: 1.7em;
+	padding: 0 0 10px 45px;
+}
+
+#experienceTitle {
+	text-align: center;
+	font-size: 3em;
+	padding-top: 5%;
+	color: black;
+}
+
+.skillsText {
+	background-color: rgba(255,255,255,1.0);
+	color: black;
+	font-size: 1.1em;
+	padding: 15px 20px 20px 30px;
+	margin-top: 35px;
+	border-radius: 30px 0 0 30px;
+}
+
+.resumeText {
+	background-color: rgba(255,255,255,1.0);
+	color: black;
+	font-size: 1.1em;
+	padding: 15px 20px 15px 30px;
+}
+
+.pageLinksFooter {
+	padding: 8px 0px 0px 0px;
+	font-size: 1em;
+}
+
+#facebookLink {
+	padding-bottom: 1px;
+}
+
+#instagramLink {
+	margin-right: 7px;
+}
+
+.webPageText {
+	font-size: 1.5em;
+}
+
+#contactText {
+	font-size: .75em;
+}
+
+.subHeader {
+	font-size: 2em;
+	padding: 5px 0px;
+}
+
+label {
+	margin-bottom: 0px;
+}
+
+.nameInput {
+	padding-top: 30px;
+}
+
+.bottom {
+	position: absolute;
+	bottom: 0;
+}
+
+.footerLinks {
+    border-right: 1px solid white;
+    padding: 0 15px 0 15px;
+}
+
+.footerLinks:last-child {
+	border-right: none;
+}
+
+.navFooter {
+	list-style-type: none;
+	margin: 0;
+	padding: 5px 0px 0 10px;
+}
+
+.navFooter li {
+	position: relative;
+	display: inline-block;
+}
+
+.headerTitleCont a:hover {
+	color: orange;
+	text-decoration: none;
+}
+
+.headerLinks:hover {
+	color: orange;
+	background-color: white !important;
+	border: 1px solid orange;
+	border-radius: 0;
+	transition: all .5s linear;
+}
+
+
+hr {
+	border: 1px solid black;
+	margin: 15px 0 0 0;
+}
+
+.workTitle {
+	font-size: 1.15em;
+	text-decoration: none;
+	padding-top: 20px;
+}
+
+.achievementText {
+	text-align: center;
+	padding: 0 0 15px;
+}
+
+#achievementsTitle {
+	text-align: center;
+	padding: 0 0 15px 0;
+}
+
+p {
+	margin: 0 0 5px;
+}
+
+.resumeTitle {
+	display: none;
+}
+
+#skillsHeading {
+	padding: 0 0 10px 15px;
+}
+
+#map {
+	width: 96%;
+}
+
+
+
+
+
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+	.pageLinks {
+		float: none;
+		width: 100%;
+		text-align: center;
+		margin: 15px 5px 0px 0px;
+	}
+
+	.headerTitleCont {
+		float: none;
+		text-align: center;
+		margin: 16px 0px 0px 0;
+	}
+
+	.nav-pills>li {
+		float: none;
+		display: inline-block;
+	}
+
+	.navFooter {
+		padding: 5px 0px 0 0;
+	}
+
+	.pageLinksFooter, .socialMediaCont, .copyright {
+		text-align: center;
+	}
+
+	.copyright {
+		margin: 0;
+		float: none;
+	}
+
+	.aboutMeText {
+	padding: 10px 25px 10px 20px;
+	margin: 80px 0 0 0;
+	}
+
+	.homePageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_580/v1500318443/gumbyguitar_pcxl6i.jpg");
+	background-position-y: -75px;
+	background-position-x: -100px;
+	min-height: 300px;
+	background-repeat: no-repeat;
+	}
+
+	.quote {
+	font-size: 1.2em;
+	}
+
+	#map {
+		display: none;
+	}
+
+	#contactMeText {
+		font-size: 1.5em;
+		padding: 0 10px;
+		width: 100%;
+		text-align: center;
+	}
+
+	.contactMe {
+		padding: 0;
+	}
+
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+	.homePageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_880/v1500318443/gumbyguitar_pcxl6i.jpg");
+	background-position-y: -75px;
+	background-position-x: -75px;
+	min-height: 485px;
+	background-repeat: no-repeat;
+	}
+
+	.quote {
+	font-size: 1.7em;
+	}
+
+	.aboutPageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_975/v1500397245/ZHockey_thv8vu.jpg");
+	background-position-y: -65px;
+	background-position-x: -210px;
+	min-height: 680px;
+	background-repeat: no-repeat;
+	opacity: .8;
+	}
+
+
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+	.homePageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1080/v1500318443/gumbyguitar_pcxl6i.jpg");
+	background-position-y: -75px;
+	background-position-x: -75px;
+	min-height: 685px;
+	background-repeat: no-repeat;
+	}
+
+	.quote {
+	font-size: 2em;
+	}
+
+	.experiencePageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1080/v1501698471/foothillguitar_rsjbqo.jpg");
+	background-position-y: 0px;
+	background-position-x: -95px;
+	height: 570px;
+	background-repeat: no-repeat;
+	opacity: 0.9;
+	}
+
+	.insure {
+		padding-left: 20px;
+	}
+
+	.aboutPageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1200/v1500397245/ZHockey_thv8vu.jpg");
+	background-position-y: -110px;
+	background-position-x: -220px;
+	min-height: 680px;
+	background-repeat: no-repeat;
+	opacity: .8;
+	}
+
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+	.pageLinks {
+		float: right;
+		width: auto;
+		margin: 25px 5px 0px 0px;
+	}
+
+	.headerTitleCont {
+		float: left;
+		text-align: left;
+		margin: 16px 0px 0px 20px;
+	}
+
+	.pageLinksFooter, .socialMediaCont, .copyright {
+		text-align: inherit;
+	}
+
+	.pageLinksFooter {
+		padding: 8px 0px 0px 0px;
+		font-size: 1em;
+		float: left;
+	}
+
+	.copyright {
+		float: right;
+		margin: 15px 15px 0 0;
+	}
+
+	.aboutMeText {
+	padding: 10px 25px 10px 20px;
+	margin: 15px 0 0 0;
+	}
+
+	.navFooter {
+		padding: 5px 0px 0 10px;
+	}
+
+	.homePageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1280/v1500318443/gumbyguitar_pcxl6i.jpg");
+	background-position-y: -180px;
+	background-position-x: 0px;
+	min-height: 680px;
+	background-repeat: no-repeat;
+	}
+
+	.quote {
+	font-size: 2.2em;
+	}
+
+	.experiencePageHero {
+		background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1400/v1501698471/foothillguitar_rsjbqo.jpg");
+		background-position-y: -5px;
+		background-position-x: -120px;
+		height: 680px;
+		background-repeat: no-repeat;
+		opacity: 0.9;
+	}
+
+	.insure {
+		padding-left: 0;
+	}
+
+	#map {
+		display: block;
+	}
+
+	#contactMeText {
+		font-size: 1.5em;
+		padding: 10px 0px 37px 0px;
+		width: 96%;
+		text-align: unset;
+	}
+
+	.contactMe {
+		padding: 5px 0 0 80px;
+	}
+
+	.aboutPageHero {
+		background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1570/v1500397245/ZHockey_thv8vu.jpg");
+		background-position-y: -126px;
+		background-position-x: -286px;
+		min-height: 680px;
+		background-repeat: no-repeat;
+		opacity: .8;
+	}
+
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
