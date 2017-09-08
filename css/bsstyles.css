@@ -165,7 +165,7 @@ a {
 .blogPageHero {
 	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1358/v1500397250/ZubairGreece_f4osby.jpg");
 	background-position-y: -680px;
-	min-height: 680px;
+	height: 680px;
 	background-repeat: no-repeat;
 	opacity: 0.8;
 }
@@ -181,7 +181,7 @@ a {
 	text-align: center;
 }
 
-.blog {
+.blogContainer, .blog {
 	color: black;
 	background-color: rgba(255,255,255,1);
 	padding: 10px 25px;
@@ -399,6 +399,105 @@ p {
 #map {
 	width: 96%;
 }
+
+#message {
+	color: black;
+}
+
+.blogInsert {
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+}
+
+.blogEntryForm {
+	background-color: white;
+	font-size: 2em;
+}
+
+#blogEntryText {
+	font-size: .75em;
+	color: black;
+}
+
+#insertButton {
+	margin-bottom: 20px;
+	height: 20px;
+	font-size: .5em;
+	color: black;
+	text-align: center;
+	/* margin: auto; */
+	/* padding: 0px; */
+	padding-bottom: 22px;
+	margin-left: 53px;
+}
+
+#fullBlogPic {
+	width: 100%;
+	margin: auto;
+}
+
+.fullBlogTitle {
+	font-size: 3em;
+	text-align: center;
+}
+
+.fullBlogSubTitle {
+	text-align: center;
+}
+
+.viewButton {
+	margin-top: 15px;
+}
+
+.instagramPics {
+	margin-bottom: 20px;
+}
+
+.instagramPics img:hover {
+	opacity: .5;
+}
+
+#instagramFeedTitle {
+	text-align: center;
+	font-size: 2.5em;
+	margin-top: 44px;
+}
+
+#followMe {
+	color: black;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+#center {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

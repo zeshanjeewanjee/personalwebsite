@@ -5,4 +5,3 @@
 <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
 <link rel="stylesheet" href="<?php echo $conf['fpfix']?>/css/bsstyles.css">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="/js/jquery.js"></script>

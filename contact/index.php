@@ -8,14 +8,14 @@
 <body>
 
 	<div class="container-full">
-		
+
 		<?php include '../includes/header.php';?>
-				
+
 		<div class="row">
 			<div class="col-md-12">
 			<div class="blogPageHero">
 			<div id="contactMeTitle">Contact Me</div>
-				<div class="row">		
+				<div class="row">
 					<div class="col-md-6">
 						<div class="contactMe">
 							<br>
@@ -23,7 +23,7 @@
 								<img id="map" src="http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_520/v1500581062/SJMap_wi5h62.png">
 						</div>
 					</div>
-				
+
 					<div class="col-md-6">
 						<div class="row">
 							<div class="nameInput">
@@ -34,7 +34,7 @@
 			  						<input id="firstName" type="text" class="form-control" placeholder="First Name" aria-describedby="basic-addon1">
 									</div>
 								</div>
-								
+
 								<div class="col-xs-4 col-xs-offset-1 col-md-7 col-md-offset-0">
 									<label id="contactText" for="lastName">Last Name:</label>
 									<br>
@@ -42,9 +42,9 @@
 			  						<input id="lastName" type="text" class="form-control" placeholder="Last Name" aria-describedby="basic-addon1">
 									</div>
 								</div>
-							</div>	
+							</div>
 						</div>
-						
+
 						<div class="row">
 							<div class="emailInput">
 								<div class="col-xs-6 col-xs-offset-2 col-md-12 col-md-offset-0">
@@ -56,7 +56,7 @@
 								</div>
 							</div>
 						</div>
-						
+
 						<div class="row">
 							<div class="messageInput">
 								<div class="col-xs-10 col-xs-offset-2 col-md-12 col-md-offset-0">
@@ -67,17 +67,14 @@
 							</div>
 						</div>
 					</div>
-				</div>	
+				</div>
 			</div>
 			</div>
 		</div>
-	
+
 		<?php include '../includes/footer.php';?>
-				
+
 	</div>
 
 </body>
 </html>
-
-
-

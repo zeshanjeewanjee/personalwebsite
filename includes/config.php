@@ -1,8 +1,8 @@
-<?php 
+<?php
     $conf = array();
-    
-    $conf['fpfix'] = '/website';
+
+    $conf['fpfix'] = '/personalwebsite';
     $conf['titleTagPost'] = "Zeshan's Personal Website";
-    
+
 
 ?>
