@@ -3,11 +3,11 @@
 	<div class="col-xs-12 col-md-5">
 		<div class="pageLinksFooter">
 			<ul class="navFooter">
-			    <li class="footerLinks"><a href="<?php echo $conf['fpfix']?>/about/">About</a></li>
-			    <li class="footerLinks"><a href="<?php echo $conf['fpfix']?>/experience/">Experience</a></li>
-			    <li class="footerLinks"><a href="<?php echo $conf['fpfix']?>/personal/">Personal</a></li>
-			    <li class="footerLinks"><a href="<?php echo $conf['fpfix']?>/blog/">Blog</a></li>
-			    <li class="footerLinks"><a href="<?php echo $conf['fpfix']?>/contact/">Contact</a></li>
+			    <li class="footerLinks"><a href="<?php echo $conf['fpfix']?>about/">About</a></li>
+			    <li class="footerLinks"><a href="<?php echo $conf['fpfix']?>experience/">Experience</a></li>
+			    <li class="footerLinks"><a href="<?php echo $conf['fpfix']?>personal/">Personal</a></li>
+			    <li class="footerLinks"><a href="<?php echo $conf['fpfix']?>blog/">Blog</a></li>
+			    <li class="footerLinks"><a href="<?php echo $conf['fpfix']?>contact/">Contact</a></li>
 			</ul>
 		</div>
 	</div>

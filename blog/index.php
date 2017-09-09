@@ -71,7 +71,7 @@
 							<img id="cuzcoPic" src="<?php echo $val['blog_image'];?>">
 							<br>
 							<div class="webPageText" id="blogText"><?php echo $val['short_post'];?></div>
-							<a href="/personalwebsite/blog/view/?id=<?php echo $val['blogID'];?>" class="readPost">Read Post</a>
+							<a href="/blog/view/?id=<?php echo $val['blogID'];?>" class="readPost">Read Post</a>
 						</div>
 
 					<?php
@@ -94,14 +94,14 @@
 
 
 
-		<a href ="/personalwebsite/blog/add/">Insert Post</a>
+		<a href ="/blog/add/">Insert Post</a>
 
 		<?php include '../includes/footer.php';?>
 
 	</div>
 
-<script src="/personalwebsite/js/instafeed.min.js"></script>
-<script src="/personalwebsite/js/custom.js"></script>
+<script src="/js/instafeed.min.js"></script>
+<script src="/js/custom.js"></script>
 
 </body>
 </html>
