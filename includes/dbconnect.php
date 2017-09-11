@@ -2,10 +2,10 @@
 
 
 
-    $servername = "localhost";
-    $dbusername = "root";
-    $dbpassword = "root";
-    $dbname = "blog_page";
+    $servername = "mariadb-159.wc2:3306";
+    $dbusername = "444787_zeshan";
+    $dbpassword = 'ze$shaN123';
+    $dbname = "444787_zeshan";
 
     $blog_name = $_POST['blog_name'];
     $author = $_POST['author'];
