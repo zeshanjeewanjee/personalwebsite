@@ -2,10 +2,10 @@
 
 
 
-    $servername = "mariadb-159.wc2:3306";
-    $dbusername = "444787_zeshan";
+    $servername = 'mariadb-159.wc2:3306';
+    $dbusername = '444787_zeshanweb';
     $dbpassword = 'ze$shaN123';
-    $dbname = "444787_zeshan";
+    $dbname = '444787_zeshan';
 
     $blog_name = $_POST['blog_name'];
     $author = $_POST['author'];
@@ -20,9 +20,6 @@
         die("Connection Failed:" . $conn->connect_error);
         exit();
     }
-
-
-
 
 
 ?>
