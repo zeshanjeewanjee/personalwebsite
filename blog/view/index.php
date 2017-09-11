@@ -75,7 +75,7 @@
                   <div class="row">
                     <div class="col-sm-12 text-center">
                       <div class="viewButton">
-                        <a href="/personalwebsite/blog/update/?id=<?php echo $key['blogID'];?>" class="readPost">Update</a>
+                        <a href="/blog/update/?id=<?php echo $key['blogID'];?>" class="readPost">Update</a>
                       </div>
                   </div>
                 </div>
