@@ -4,7 +4,7 @@
 <head>
 <title>Experience : <?php echo $conf['titleTagPost']?></title>
 <?php include '../includes/links.php';?>
-<link rel="stylesheet" href="<?php echo $conf['fpfix']?>/css/resume.css">
+<link rel="stylesheet" href="<?php echo $conf['fpfix']?>css/resume.css">
 
 </head>
 <body>
