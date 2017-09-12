@@ -10,6 +10,16 @@ body {
 	width: 100%;
 }
 
+.row {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.col-md-12, .col-sm-12 {
+	padding-left: 0;
+	padding-right: 0;
+}
+
 .nav>li>a {
     padding: 5px 15px 2px 15px;
     line-height: 1em;
