@@ -733,4 +733,39 @@ p {
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
 
+	.aboutPageHero {
+		background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1620/v1500397245/ZHockey_thv8vu.jpg");
+		background-position-y: -126px;
+		background-position-x: -286px;
+		min-height: 680px;
+		background-repeat: no-repeat;
+		opacity: .8;
+	}
+
+	.experiencePageHero {
+		background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1470/v1501698471/foothillguitar_rsjbqo.jpg");
+		background-position-y: -5px;
+		background-position-x: -120px;
+		height: 680px;
+		background-repeat: no-repeat;
+		opacity: 0.9;
+	}
+
+	.homePageHero {
+	background-image: url("http://res.cloudinary.com/dp3spzmf7/image/upload/c_scale,q_100,w_1350/v1500318443/gumbyguitar_pcxl6i.jpg");
+	background-position-y: -180px;
+	background-position-x: 0px;
+	min-height: 680px;
+	background-repeat: no-repeat;
+	}
+
+
+
+
+
+
+
+
+
+
 }
