@@ -15,7 +15,7 @@ body {
 	margin-right: 0;
 }
 
-.col-md-12, .col-sm-12 {
+.col-md-12, .col-sm-12 , .col-xs-12{
 	padding-left: 0;
 	padding-right: 0;
 }
