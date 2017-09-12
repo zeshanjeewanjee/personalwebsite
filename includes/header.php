@@ -2,7 +2,7 @@
 <div class="row">
 	<div class="col-xs-12 col-md-4">
 		<div class="headerTitleCont">
-			<h1><a href="<?php echo $conf['fpfix']?>index.php">Zeshan Jeewanjee</a></h1>
+			<h1><a href="<?php echo $conf['fpfix']?>">Zeshan Jeewanjee</a></h1>
 		</div>
 	</div>
 	<div class="col-xs-12 col-md-8">
